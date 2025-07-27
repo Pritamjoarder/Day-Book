@@ -1,2 +1,3 @@
 # Day-Book
-daily debit &amp; credit entries
+daily debit & credit entries
+more features
